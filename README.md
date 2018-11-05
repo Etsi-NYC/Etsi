@@ -21,7 +21,6 @@
 
 - Node v8.11.3
 - Webpack 4.20.2
-- Docker
 
 ## Development
 
@@ -34,6 +33,3 @@ To install webpack and other dependencies:
 npm install -g webpack
 npm install
 ```
-Install docker from https://docs.docker.com/install/.
-
-Create a docker image with Dockerfile and push it to your docker hub for use.
