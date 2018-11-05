@@ -1,0 +1,9 @@
+@import url('./style/slick.css');
+@import url('./style/slick-theme.css');
+
+img {
+  padding: 0rem 1.29rem 0.64rem 0;
+  float: left;
+  width: 7.11rem;
+  height: auto;
+}

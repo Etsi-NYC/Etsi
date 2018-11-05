@@ -1,0 +1,143 @@
+{
+  "reviews": [
+      {
+          "username": "Al",
+          "profile_pic_path": "https://www.zooportraits.com/wp-content/uploads/2018/05/Koala-Phascolarctos-Cinereus.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 5,
+          "item_id": 2,
+          "comment": "enim consequat voluptate laborum reprehenderit duis ipsum Lorem et tempor dolor officia veniam deserunt ipsum",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 20,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Bob",
+          "profile_pic_path": "https://image.shutterstock.com/image-illustration/tiger-head-hand-draw-paint-260nw-508640131.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 3.5,
+          "item_id": 2,
+          "comment": "aliquip eiusmod irure minim dolore tempor consectetur Lorem irure nisi fugiat velit sint enim anim amet tempor ad magna ex ea consequat aute elit dolor velit cupidatat nostrud commodo reprehenderit eu exercitation aliqua ipsum in fugiat nisi consequat reprehenderit voluptate fugiat sunt fugiat duis aliquip fugiat ut eiusmod anim veniam",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 21,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Charlie",
+          "profile_pic_path": "https://c1.staticflickr.com/8/7148/6577819847_a77021d29b_b.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 4,
+          "item_id": 2,
+          "comment": "aliquip laborum eu ut veniam cillum elit culpa cupidatat minim ex nisi laborum ad cillum enim consectetur deserunt pariatur non nostrud nisi velit ut minim proident officia laborum nostrud incididunt sint dolor aliqua occaecat sit non quis irure sit excepteur veniam nulla ad proident irure do non eu deserunt esse do velit nisi ut sunt magna quis occaecat pariatur et deserunt reprehenderit est eu eu officia magna pariatur voluptate dolore duis cupidatat sint mollit enim pariatur proident est deserunt consequat anim esse magna eiusmod laboris dolore pariatur tempor Lorem veniam consectetur consequat qui irure eiusmod non irure sit ex eu",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 22,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Al",
+          "profile_pic_path": "https://i.pinimg.com/originals/1a/ff/f3/1afff312c4a098869751f43233f25a7f.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 4.5,
+          "item_id": 2,
+          "comment": "nulla nulla in nisi proident fugiat veniam occaecat elit magna eu voluptate occaecat aliqua proident elit nisi est sint ullamco cupidatat ea ea fugiat esse sit eu id veniam duis nulla enim est non magna ut aliquip eiusmod quis qui sit consectetur aute occaecat proident exercitation pariatur do ad ea ipsum culpa anim ex deserunt nisi adipisicing ex aute nisi velit sunt magna est labore voluptate irure deserunt duis sit enim incididunt tempor irure laborum officia ex minim cillum consectetur mollit mollit duis id ex magna magna dolore aliqua excepteur eu in officia consectetur aliqua ullamco nisi dolor sunt culpa anim reprehenderit non est excepteur sit mollit ad id cupidatat nisi proident consequat anim pariatur voluptate aliquip voluptate commodo ex laboris ut ad nulla tempor exercitation ut laboris incididunt est non consequat velit velit ullamco dolor eu fugiat magna sunt ullamco occaecat proident duis deserunt et qui fugiat excepteur consequat",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 23,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Bob",
+          "profile_pic_path": "https://www.zooportraits.com/wp-content/uploads/2018/05/Koala-Phascolarctos-Cinereus.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 2,
+          "item_id": 2,
+          "comment": "duis laboris ex eu laboris nisi minim enim veniam nostrud aliqua qui elit laborum id",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 24,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Charlie",
+          "profile_pic_path": "https://image.shutterstock.com/image-illustration/tiger-head-hand-draw-paint-260nw-508640131.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 3,
+          "item_id": 2,
+          "comment": "aute ut occaecat eu ipsum nisi velit do Lorem irure cillum eiusmod ullamco ipsum incididunt commodo dolore dolore proident nostrud ullamco cupidatat esse culpa ipsum non aliquip et mollit quis adipisicing ipsum commodo consequat cillum in enim tempor adipisicing veniam adipisicing irure consectetur duis consequat et sunt pariatur deserunt ea",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 25,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Al",
+          "profile_pic_path": "https://c1.staticflickr.com/8/7148/6577819847_a77021d29b_b.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 5,
+          "item_id": 2,
+          "comment": "amet occaecat excepteur consectetur tempor cillum eiusmod eiusmod deserunt amet et velit aliqua laboris ex proident cupidatat enim magna incididunt laboris ut consectetur incididunt duis pariatur sint consequat reprehenderit elit laborum id mollit cupidatat occaecat veniam tempor proident eu deserunt non velit nisi nulla qui cillum quis reprehenderit ad duis laboris dolor sit qui ut amet do dolore fugiat aliquip nostrud ullamco quis non cupidatat qui cupidatat esse eu aliquip voluptate sit dolor aliquip dolor consectetur eu voluptate nisi sunt id consectetur eu consectetur est voluptate fugiat sit velit irure est reprehenderit cupidatat incididunt dolor labore cupidatat adipisicing commodo labore",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 26,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Bob",
+          "profile_pic_path": "https://i.pinimg.com/originals/1a/ff/f3/1afff312c4a098869751f43233f25a7f.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 3.5,
+          "item_id": 2,
+          "comment": "adipisicing quis adipisicing minim officia excepteur qui exercitation elit eu nisi laborum cupidatat anim consectetur excepteur in ad nulla magna consectetur amet deserunt magna culpa sunt nisi enim ad aliquip eu officia dolor excepteur cupidatat laboris cupidatat pariatur duis sunt excepteur ipsum sint fugiat sunt amet eiusmod dolore labore tempor est aute dolor quis amet id aute eu dolore deserunt eiusmod consequat eu esse eu minim culpa cillum amet reprehenderit est esse labore magna do amet mollit eiusmod sint velit laborum excepteur cupidatat pariatur quis veniam commodo cillum ad duis in sunt sunt cillum ad laborum adipisicing nisi et incididunt in voluptate eu anim Lorem dolore aute enim incididunt commodo pariatur fugiat cillum aute mollit officia ea tempor est id ea dolore et qui pariatur quis est deserunt Lorem est in occaecat officia laboris non est qui elit velit ipsum sit duis ad Lorem proident veniam Lorem anim excepteur pariatur",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 27,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Charlie",
+          "profile_pic_path": "https://www.zooportraits.com/wp-content/uploads/2018/05/Koala-Phascolarctos-Cinereus.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 4,
+          "item_id": 2,
+          "comment": "minim deserunt incididunt laboris aliquip esse do non exercitation aute ad deserunt aliquip culpa non",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 28,
+          "name": "ex",
+          "id": 2
+      },
+      {
+          "username": "Al",
+          "profile_pic_path": "https://image.shutterstock.com/image-illustration/tiger-head-hand-draw-paint-260nw-508640131.jpg",
+          "date": "1991-01-01T05:00:00.000Z",
+          "rating": 4.5,
+          "item_id": 2,
+          "comment": "consequat exercitation occaecat Lorem laborum sint aute Lorem culpa incididunt culpa ex aliquip ut aliquip exercitation elit ad veniam cupidatat ipsum in ut anim sint aute minim quis eu excepteur esse officia elit non mollit voluptate do culpa ullamco pariatur exercitation ea minim cupidatat exercitation cupidatat consequat eu officia enim",
+          "image_path": "https://s3.us-east-2.amazonaws.com/hack-reactor-etsi/boots.JPG",
+          "review_id": 29,
+          "name": "ex",
+          "id": 2
+      }
+  ],
+  "averageRating": 3.766667,
+  "imagePaths": [
+      "https://static.pixlee.com/photos/230467187/medium/f805de892f64650e6bc9.jpg",
+      "https://di2ponv0v5otw.cloudfront.net/posts/2018/08/29/5b86f3508ad2f9f7e7704240/m_5b86f3601b16dbab44142290.jpg",
+      "https://www.americancowboy.com/.image/t_share/MTQ1MDQxNzMxNDQwNzQ4MjYx/boots.jpg",
+      "http://www.medodeal.com/wp-content/uploads/2017/10/western-boots-fancybox-bmtuesq-.jpg",
+      "https://blog.travis-ci.com/images/2015-josh-boots.jpg",
+      "https://wehearthandmadeboots.com/wp-content/uploads/2018/06/miguel-cowboy-boots-300x300.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOc3at0H4jg0Lj0jVZ_KuLSCOKwjfDmbQlfHekDR7e6g6QDjvQWA",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6DndAujqBXtF_2GZ_KEQvR7N3zEGv9h_OjTlzWtGCHNPb2fEFg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnoj-bP5QGWedd0tH-V_EInTEs7_YEudLjecGkiU0P42tnoBp",
+      "https://static.pixlee.com/photos/230467187/medium/f805de892f64650e6bc9.jpg",
+      "https://di2ponv0v5otw.cloudfront.net/posts/2018/08/29/5b86f3508ad2f9f7e7704240/m_5b86f3601b16dbab44142290.jpg",
+      "https://www.americancowboy.com/.image/t_share/MTQ1MDQxNzMxNDQwNzQ4MjYx/boots.jpg",
+      "http://www.medodeal.com/wp-content/uploads/2017/10/western-boots-fancybox-bmtuesq-.jpg",
+      "https://blog.travis-ci.com/images/2015-josh-boots.jpg",
+      "https://wehearthandmadeboots.com/wp-content/uploads/2018/06/miguel-cowboy-boots-300x300.jpg"
+  ],
+  "reviewCount": 15
+}
