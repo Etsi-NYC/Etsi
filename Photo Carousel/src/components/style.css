@@ -1,0 +1,65 @@
+/* Toast */
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.fadeOut {
+  animation-name: fadeOut;
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translate3d(0, 100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.slideInUp {
+  animation-name: slideInUp;
+}
+
+.toast {
+  background-color: rgb(254, 207, 132) !important;
+  border-bottom-color: rgb(254, 199, 117);
+  border-bottom-left-radius: 6px !important;
+  border-bottom-right-radius: 6px !important;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(254, 199, 117);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgb(254, 199, 117);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(254, 199, 117);
+  border-top-left-radius: 6px !important;
+  border-top-right-radius: 6px !important;
+  border-top-style: solid;
+  border-top-width: 1px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px 0px !important;
+  color: rgb(34, 34, 34) !important;
+  font-family: "Graphik Webfont", -apple-system, BlinkMacSystemFont, "Roboto",
+    "Droid Sans", "Segoe UI", "Helvetica", Arial, sans-serif !important;
+  font-size: 15px;
+  max-height: 20px !important;
+  width: 616px;
+  position: relative !important;
+  text-align: left;
+  right: 50%;
+}
+
